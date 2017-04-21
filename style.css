@@ -1,0 +1,20 @@
+p {
+	color: white;
+	height: 90px;
+	text-align: center;
+	font-size: 16px;
+	word-spacing: <parent-width>;
+	position: relative;
+	top: -470px;
+}
+
+img {
+	width: 100%;
+}
+
+#blue {
+	width:17%;
+	position: relative;
+	top: 480px;
+	left: 450px;
+}
